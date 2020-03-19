@@ -1126,7 +1126,9 @@ ul.navbar-nav>li.header-get-a-quote:hover>a:after {
 #main-slide .slider-content.text-right {
     right: 10%;
 }
-
+.slider-content div{
+    padding-top: 12%;
+}
 .slider-content {
     position: relative;
     display: table;
@@ -1154,7 +1156,7 @@ ul.navbar-nav>li.header-get-a-quote:hover>a:after {
 
 .slide-sub-title {
     font-style: normal;
-    font-size: 60px;
+    font-size: 90px;
     line-height: 58px;
     margin: 20px 0;
     color: #fff;
